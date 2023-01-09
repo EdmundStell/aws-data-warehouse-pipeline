@@ -1,6 +1,6 @@
 Introduction
 
-The directory overall, is built to deploy three specific lambda functions onto aws using the deployment script, the functionality of the three lambda fucntion are: -----
+The directory overall, is built to deploy three specific lambda functions onto aws using the deployment script, the functionality of the three lambda function are: -----
 
 The functions are deployed via the main script which deploys a Lambda function to AWS using boto3. It takes in the following arguments:
 
